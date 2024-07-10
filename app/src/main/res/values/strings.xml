@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Applications</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="logout">logout</string>
+    <string name="name">name</string>
+    <string name="address">address</string>
+    <string name="city">city</string>
+    <string name="state">state</string>
+    <string name="submit">submit</string>
+
+    <array name="spinner">
+        <item>Fish Type Availability</item>
+        <item>Angel Fish</item>
+        <item>Gold Fish</item>
+        <item>Rainbow Fish</item>
+    </array>
+</resources>
